@@ -37,7 +37,9 @@ This project consists of two main parts:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/[yourusername]/web-scraping-odyssey.git
+git clone https://github.com/[yourusername]/cg-sf-freeListings.git
+
+Example: https://github.com/jaskeeratbrar/cg-sf-freeListings.git
 cd web-scraping-odyssey
 
 ```
